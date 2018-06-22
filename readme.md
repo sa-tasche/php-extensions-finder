@@ -45,3 +45,5 @@ composer global require dg/php-extensions-finder
 ```
 
 and make sure your global vendor binaries directory is in [your `$PATH` environment variable](https://getcomposer.org/doc/03-cli.md#global).
+
+If you like it, **[please make a donation now](https://nette.org/make-donation?to=php-extensions-finder)**. Thank you!
